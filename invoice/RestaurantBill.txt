@@ -1,0 +1,9 @@
+Customer: Sudeep M R
+Date: 03 Feb, 2025
+Items	Qty	Total
+Dosa	2	100.0
+upma	2	100.0
+pulav	2	100.0
+---------------------------------------
+Grand Total:	300.0
+
